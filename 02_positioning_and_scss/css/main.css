@@ -1,0 +1,3 @@
+header{border:3px dotted yellow;position:fixed}body{color:red}.relativePosition{position:relative;border:1px solid #333;height:300px;top:50px;background-color:fuchsia}.absolutePosition{position:absolute;background-color:#333;top:0px}.absolutePosition p{color:#333}.absolutePosition p span{color:#333}.absolutePosition p span.testParent{color:blue}
+
+/*# sourceMappingURL=main.css.map */

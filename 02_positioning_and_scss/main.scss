@@ -1,0 +1,29 @@
+//Main.scss
+$primary-color: #333;
+
+@import "header";
+
+body {
+  color: red;
+}
+.relativePosition {
+  position: relative;
+  border: 1px solid $primary-color;
+  height: 300px;
+  top: 50px;
+  background-color: fuchsia;
+}
+.absolutePosition {
+  position: absolute;
+  background-color: $primary-color;
+  top: 0px;
+  p {
+    color: $primary-color;
+    span {
+      &.testParent {
+        color: blue;
+      }
+      color: $primary-color;
+    }
+  }
+}

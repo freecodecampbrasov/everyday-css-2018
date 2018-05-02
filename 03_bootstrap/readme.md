@@ -1,4 +1,4 @@
-# Course 3/4: Bootstrap SCSS
+# Course 3/4: Bootstrap CSS
 [Youtube recoding] -  to be added
 
 

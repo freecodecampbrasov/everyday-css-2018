@@ -1,5 +1,5 @@
 # Course 3/4: Bootstrap CSS
-[Youtube recoding] -  to be added
+[Youtube recoding](https://youtu.be/H99RUMHDnZE)
 
 
 Useful links:

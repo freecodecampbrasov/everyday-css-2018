@@ -1,0 +1,18 @@
+body {
+    background-color: #f4f4f4;
+    position: relative;
+    top: 80px;
+}
+
+section {
+    margin-top: 30px;
+}
+
+.footer {
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 30px;
+    margin-top: 100px;
+    line-height: 30px; /* Vertically center the text there */
+    background-color: #e9ecef;
+}
